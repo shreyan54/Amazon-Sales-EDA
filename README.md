@@ -21,4 +21,9 @@ During the analysis, the following key questions were addressed using SQL querie
 9. Calculate the percentage contribution of each sub-category.
 10. Identify the top 2 categories that have received maximum returns and their return percentage.
 
+## Entity-Relationship Diagram (ERD)
+![ERD Image]()
+
+ An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between the tables in the dataset. This diagram provides a clear understanding of the data structure and helps in identifying key entities and their attributes.
+
 
