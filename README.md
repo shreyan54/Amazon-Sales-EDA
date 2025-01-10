@@ -22,7 +22,7 @@ During the analysis, the following key questions were addressed using SQL querie
 10. Identify the top 2 categories that have received maximum returns and their return percentage.
 
 ## Entity-Relationship Diagram (ERD)
-![ERD Image]()
+![ERD Image](https://github.com/shreyan54/Amazon-Sales-EDA/blob/1ad5d3f9057a9c247d752d7176480c709cd06ef5/ERD%20diagram.png)
 
  An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between the tables in the dataset. This diagram provides a clear understanding of the data structure and helps in identifying key entities and their attributes.
 
