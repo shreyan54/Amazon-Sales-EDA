@@ -1,5 +1,5 @@
  # Amazon Sales Analysis Project with SQL 
- ![Banner Image]()
+ ![Banner Image](https://github.com/shreyan54/Amazon-Sales-EDA/blob/e1509995d180b31399411c67520f34049dee5d85/amazon_india_wide_image-3.jpg)
 
 
 ## Introduction
@@ -22,5 +22,3 @@ During the analysis, the following key questions were addressed using SQL querie
 10. Identify the top 2 categories that have received maximum returns and their return percentage.
 
 
-# Amazon-Sales-EDA
-This project focuses on analyzing a dataset containing Amazon sales records, including information such as sales dates, customer details, product categories, and revenue figures
