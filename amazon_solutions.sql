@@ -507,24 +507,4 @@ ORDER BY 5 DESC
 LIMIT 10
 
 
-/*
-Final Task
--- Store Procedure
-create a function as soon as the product is sold the the same quantity should reduced from inventory table
-after adding any sales records it should update the stock in the inventory table based on the product and qty purchased
--- 
-*/
-
-CREATE OR REPLACE PROCEDURE addsales(
-INT,
-p_customer_id INT,
-p_seller_id INT,
-p_order_item_id INT,
-p_product_id INT,
-p_quantity p_order_idINT
-) 
-
-LANGUAGE plpgsql
-AS $$
-
 
